@@ -6,14 +6,47 @@ A curious mind who loves building modern web applications. Passionate about fron
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
+<h3 align="left">Programming Languages:</h3>
+<p align="left"> 
 
-* **HTML** <svg
-* **CSS**
-* **JavaScript**
-* **Bootstrap**
-* **Tailwind CSS**
-* **React (Learning)**
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/html-5.png" width="40" height="40" alt="HTML"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/css3.png" width="40" height="40" alt="CSS"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/javascript.png" width="40" height="40" alt="JavaScript"/>
+</a>
+
+<a href="https://react.dev" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/officel/48/react.png" width="40" height="40" alt="React"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" height="40" alt="Java"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/python.png" width="40" height="40" alt="Python"/>
+</a>
+
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/linux.png" width="40" height="40" alt="Linux"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40" alt="Bootstrap"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" alt="Tailwind CSS"/>
+</a>
+
+</p>
+
 
 ### 🛠 IDS & Tools
 
