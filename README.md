@@ -99,17 +99,12 @@ A curious mind who loves building modern web applications. Passionate about fron
 
 <!-- Cursor -->
 <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cursor/cursor.png" width="40" height="40" alt="Cursor"/>
+<img src="https://img.icons8.com/nolan/64/cursor-ai.png" alt="cursor-ai" width="40" height="40" alt="Cursor"/>
 </a>
 
 <!-- Replit -->
 <a href="https://replit.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/replit/replit.png" width="40" height="40" alt="Replit"/>
-</a>
-
-<!-- n8n -->
-<a href="https://n8n.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40" alt="n8n"/>
+<img src="https://img.icons8.com/fluency/48/replit.png" alt="replit" width="40" height="40" alt="Replit"/>
 </a>
 
 <!-- Bolt -->
