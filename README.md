@@ -114,7 +114,7 @@ A curious mind who loves building modern web applications. Passionate about fron
 
 <!-- Bolt -->
 <a href="https://bolt.new" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/isometric/50/lightning-bolt.png" alt="lightning-bolt"/> width="40" height="40" alt="Bolt"/>
+<img src="https://img.icons8.com/isometric/50/lightning-bolt.png" alt="lightning-bolt" width="40" height="40" alt="Bolt"/>
 </a>
 
 <!-- Notion -->
