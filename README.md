@@ -71,6 +71,37 @@ A curious mind who loves building modern web applications. Passionate about fron
 
 ---
 
+<h3 align="left">IDEs / Editors:</h3>
+<p align="left"> 
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/android-studio--v3.png" width="40" height="40" alt="Android Studio"/>
+</a>
+
+<a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=p5Mq1v4UOrrs&format=png" width="40" height="40" alt="Cursor"/>
+</a>
+
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/xcode.png" width="40" height="40" alt="Xcode"/>
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/pycharm.png" width="40" height="40" alt="PyCharm"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" height="40" alt="IntelliJ IDEA"/>
+</a>
+
+</p>
+
+---
+
 ## ⚡ What I'm Doing
 
 * Leveling up my React skills
