@@ -47,55 +47,79 @@ A curious mind who loves building modern web applications. Passionate about fron
 
 </p>
 
+---
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools & IDEs:</h3>
 <p align="left"> 
 
+<!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/git.png" width="40" height="40" alt="Git"/>
 </a>
 
+<!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/dusk/48/postman-api.png" width="40" height="40" alt="Postman"/>
 </a>
 
+<!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/figma--v1.png" width="40" height="40" alt="Figma"/>
 </a>
 
+<!-- Netlify -->
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/netlify.png" width="40" height="40" alt="Netlify"/>
 </a>
 
-</p>
-
----
-
-<h3 align="left">IDEs / Editors:</h3>
-<p align="left"> 
-
+<!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
 </a>
 
+<!-- Android Studio -->
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="40" height="40" alt="Android Studio"/>
 </a>
 
+<!-- Cursor -->
 <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=p5Mq1v4UOrrs&format=png" width="40" height="40" alt="Cursor"/>
 </a>
 
+<!-- Xcode -->
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/xcode.png" width="40" height="40" alt="Xcode"/>
 </a>
 
+<!-- PyCharm -->
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/pycharm.png" width="40" height="40" alt="PyCharm"/>
 </a>
 
+<!-- IntelliJ IDEA -->
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" height="40" alt="IntelliJ IDEA"/>
+</a>
+
+<!-- Replit -->
+<a href="https://replit.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=rY8eHnVYDrbE&format=png" width="40" height="40" alt="Replit"/>
+</a>
+
+<!-- Bolt -->
+<a href="https://bolt.new" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=dcLQn7ETmn5K&format=png" width="40" height="40" alt="Bolt"/>
+</a>
+
+<!-- n8n -->
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=3TgqX3sI5G7f&format=png" width="40" height="40" alt="n8n"/>
+</a>
+
+<!-- Notion -->
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=20906&format=png" width="40" height="40" alt="Notion"/>
 </a>
 
 </p>
