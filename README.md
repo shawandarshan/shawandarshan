@@ -40,7 +40,8 @@ A curious mind who loves building modern web applications. Passionate about fron
 ## 🔗 Connect With Me
 
 * Portfolio (coming soon)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png)](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 ---
 
