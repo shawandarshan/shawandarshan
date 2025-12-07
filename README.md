@@ -15,7 +15,7 @@ A curious mind who loves building modern web applications. Passionate about fron
 * **Tailwind CSS**
 * **React (Learning)**
 
-### 🛠 Tools
+### 🛠 IDS & Tools
 
 * **Git & GitHub**
 
