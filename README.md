@@ -40,8 +40,7 @@ A curious mind who loves building modern web applications. Passionate about fron
 ## 🔗 Connect With Me
 
 * Portfolio (coming soon)
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-<a href="[https://linkedin.com/in/rohitroychowdhury](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitroychowdhury" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rohitroychowdhury](https://www.linkedin.com/in/shawandarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitroychowdhury" height="30" width="40" /></a>
 ---
 
 ⭐️ *Feel free to check out my repositories and follow me for more updates!*
