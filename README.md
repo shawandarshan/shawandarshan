@@ -138,11 +138,11 @@ A curious mind who loves building modern websites & applications. Passionate abo
 
 ---
 
-## 🔗 Connect With Me <br>
+## 🔗 Connect With Me 
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br>
 
 * Portfolio (coming soon)
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shawandarshan?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
 
 ---
 
