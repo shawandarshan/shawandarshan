@@ -82,9 +82,9 @@ A curious mind who loves building modern web applications. Passionate about fron
 <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="40" height="40" alt="Android Studio"/>
 </a>
 
-<!-- Cursor -->
+<!-- Cursor (Working PNG) -->
 <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=p5Mq1v4UOrrs&format=png" width="40" height="40" alt="Cursor"/>
+<img src="https://img.icons8.com/?size=80&id=7rhYRjJ1vV2Y&format=png" width="40" height="40" alt="Cursor"/>
 </a>
 
 <!-- Xcode -->
@@ -102,27 +102,28 @@ A curious mind who loves building modern web applications. Passionate about fron
 <img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" height="40" alt="IntelliJ IDEA"/>
 </a>
 
-<!-- Replit -->
+<!-- Replit (Working PNG) -->
 <a href="https://replit.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=rY8eHnVYDrbE&format=png" width="40" height="40" alt="Replit"/>
+<img src="https://img.icons8.com/?size=80&id=NCtKQo8ZkbTI&format=png" width="40" height="40" alt="Replit"/>
 </a>
 
-<!-- Bolt -->
+<!-- Bolt (working alt icon) -->
 <a href="https://bolt.new" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=dcLQn7ETmn5K&format=png" width="40" height="40" alt="Bolt"/>
+<img src="https://img.icons8.com/?size=80&id=23264&format=png" width="40" height="40" alt="Bolt"/>
 </a>
 
-<!-- n8n -->
+<!-- n8n (Working PNG) -->
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=3TgqX3sI5G7f&format=png" width="40" height="40" alt="n8n"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40" alt="n8n"/>
 </a>
 
-<!-- Notion -->
+<!-- Notion (Working PNG) -->
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=20906&format=png" width="40" height="40" alt="Notion"/>
+<img src="https://img.icons8.com/?size=80&id=20906&format=png" width="40" height="40" alt="Notion"/>
 </a>
 
 </p>
+
 
 ---
 
