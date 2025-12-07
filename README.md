@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shawandarshan </h1>
 
-A curious mind who loves building modern web applications. Passionate about frontend development, clean UI, and learning new technologies every day.
+A curious mind who loves building modern websites & applications. Passionate about software development, clean UI, and learning new technologies every day.
 
 ---
 
