@@ -48,9 +48,26 @@ A curious mind who loves building modern web applications. Passionate about fron
 </p>
 
 
-### 🛠 IDS & Tools
+<h3 align="left">Tools:</h3>
+<p align="left"> 
 
-* **Git & GitHub**
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/git.png" width="40" height="40" alt="Git"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/dusk/48/postman-api.png" width="40" height="40" alt="Postman"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/figma--v1.png" width="40" height="40" alt="Figma"/>
+</a>
+
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/netlify.png" width="40" height="40" alt="Netlify"/>
+</a>
+
+</p>
 
 ---
 
