@@ -82,11 +82,6 @@ A curious mind who loves building modern web applications. Passionate about fron
 <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="40" height="40" alt="Android Studio"/>
 </a>
 
-<!-- Cursor (Working PNG) -->
-<a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=80&id=7rhYRjJ1vV2Y&format=png" width="40" height="40" alt="Cursor"/>
-</a>
-
 <!-- Xcode -->
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/xcode.png" width="40" height="40" alt="Xcode"/>
@@ -102,24 +97,29 @@ A curious mind who loves building modern web applications. Passionate about fron
 <img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" height="40" alt="IntelliJ IDEA"/>
 </a>
 
-<!-- Replit (Working PNG) -->
+<!-- Cursor -->
+<a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cursor/cursor.png" width="40" height="40" alt="Cursor"/>
+</a>
+
+<!-- Replit -->
 <a href="https://replit.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=80&id=NCtKQo8ZkbTI&format=png" width="40" height="40" alt="Replit"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/replit/replit.png" width="40" height="40" alt="Replit"/>
 </a>
 
-<!-- Bolt (working alt icon) -->
-<a href="https://bolt.new" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=80&id=23264&format=png" width="40" height="40" alt="Bolt"/>
-</a>
-
-<!-- n8n (Working PNG) -->
+<!-- n8n -->
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" height="40" alt="n8n"/>
 </a>
 
-<!-- Notion (Working PNG) -->
+<!-- Bolt -->
+<a href="https://bolt.new" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/bolt/bolt.png" width="40" height="40" alt="Bolt"/>
+</a>
+
+<!-- Notion -->
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=80&id=20906&format=png" width="40" height="40" alt="Notion"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/>
 </a>
 
 </p>
