@@ -40,7 +40,7 @@ A curious mind who loves building modern web applications. Passionate about fron
 ## 🔗 Connect With Me
 
 * Portfolio (coming soon)
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* LinkedIn: [https://LinkedIn.com/shawandarshan](www.linkedin.com/in/shawandarshan)
 
 ---
 
