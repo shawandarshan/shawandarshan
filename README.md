@@ -45,6 +45,11 @@ A curious mind who loves building modern websites & applications. Passionate abo
 <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" alt="Tailwind CSS"/>
 </a>
 
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/dart.png" width="40" height="40" alt="Dart"/>
+</a>
+
+
 </p>
 
 ---
@@ -115,6 +120,11 @@ A curious mind who loves building modern websites & applications. Passionate abo
 <!-- Notion -->
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/>
+</a>
+
+<!-- Flutter -->
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/flutter.png" width="40" height="40" alt="Flutter"/>
 </a>
 
 </p>
