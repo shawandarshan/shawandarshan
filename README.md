@@ -140,6 +140,12 @@ A curious mind who loves building modern websites & applications. Passionate abo
 
 ---
 
+## ☕ Support Me
+
+[![Buy Me a Coffee](https://img.icons8.com/color/48/buy-me-a-coffee.png)](https://buymeacoffee.com/shawandarshan)
+
+---
+
 ## 🔗 Connect With Me 
 
 * Portfolio (coming soon)<br>
