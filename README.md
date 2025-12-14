@@ -136,13 +136,13 @@ A curious mind who loves building modern websites & applications. Passionate abo
 
 * Leveling up my React skills
 * Building modern apps using AI-powered workflows
-* Creating clean UI with Tailwind CSS
+* Creating clean UI with Tailwind CSS 
 
 ---
 
-## ☕ Support Me
+## ☕ Support Me 
 
-[![Buy Me a Coffee](https://img.icons8.com/color/48/buy-me-a-coffee.png)](https://buymeacoffee.com/shawandarshan)
+[![Buy Me a Coffee]("https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-color-tal-revivo.png")](https://buymeacoffee.com/shawandarshan)
 
 ---
 
