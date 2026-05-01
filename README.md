@@ -11,9 +11,7 @@ A curious mind who loves building modern websites & applications. Passionate abo
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/html-5.png" width="40" height="40" alt="HTML"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+</a> <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/css3.png" width="40" height="40" alt="CSS"/>
 </a>
 
