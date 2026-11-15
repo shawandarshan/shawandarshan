@@ -22,21 +22,19 @@
 
 ## 👋 About Me
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true&rank_icon=github" />
 
-```yaml
-Name     : Shawandarshan
-Location : India 🇮🇳
-Focus    : AI / ML + Web Development
-Stack    : React · Tailwind · Python · Flutter
+**Shawandarshan** · India 🇮🇳
 
-Currently:
-  ↳ Leveling up React skills
-  ↳ Building AI-powered web apps
-  ↳ Crafting clean UI with Tailwind CSS
+A curious developer passionate about building things that actually work — clean interfaces, smart AI integrations, and apps people enjoy using.
 
-Principle: "Build in public. Ship fast. Learn forever."
-```
+- 🔭 &nbsp;Working on **AI / ML projects** and modern web apps
+- 🌱 &nbsp;Currently leveling up **React** and **Tailwind CSS**
+- ⚡ &nbsp;Obsessed with **simple, optimized code**
+- 🎯 &nbsp;Crafting clean UI with **AI-powered workflows**
+- 💬 &nbsp;Ask me about **React, Python, Flutter, Web Dev**
+
+> *"Build in public. Ship fast. Learn forever."*
 
 <br clear="right"/>
 
@@ -46,30 +44,48 @@ Principle: "Build in public. Ship fast. Learn forever."
 
 <br/>
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
-<h3>🖨️ Yugi Digital Printing</h3>
+<td width="50%">
 
-A business website for a digital printing company — fast, clean layout, zero bloat.
+<div align="center">
 
-**Stack:** HTML · CSS · JavaScript · Netlify
+### 🖨️ Yugi Digital Printing
 
-**→ [yuge.netlify.app](https://yuge.netlify.app/)**
+<a href="https://yuge.netlify.app/">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fyuge.netlify.app&style=flat-square&logo=netlify&label=live&color=00FFD4&labelColor=0d1117" />
+</a>
 
+A fast, clean business website for a digital printing company. Minimal design, optimized for performance.
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Netlify`
+
+**[🌐 Visit Site →](https://yuge.netlify.app/)**
+
+</div>
 </td>
-<td width="50%" valign="top">
-<h3>🎓 Campus Resource Share</h3>
+<td width="50%">
+
+<div align="center">
+
+### 🎓 Campus Resource Share
+
+<a href="https://campusresouceshare.netlify.app/">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcampusresouceshare.netlify.app&style=flat-square&logo=netlify&label=live&color=00FFD4&labelColor=0d1117" />
+</a>
 
 A web platform that makes sharing campus resources simple and accessible for everyone.
 
-**Stack:** React · Tailwind CSS · JavaScript · Netlify
+`React` &nbsp; `Tailwind CSS` &nbsp; `JavaScript` &nbsp; `Netlify`
 
-**→ [campusresouceshare.netlify.app](https://campusresouceshare.netlify.app/)**
+**[🌐 Visit Site →](https://campusresouceshare.netlify.app/)**
 
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -77,23 +93,36 @@ A web platform that makes sharing campus resources simple and accessible for eve
 
 <div align="center">
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,flutter,dart,java,bootstrap&theme=dark" />
+| | Technology | Docs |
+|:---:|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="30"/> | **HTML5** | [docs →](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="30"/> | **CSS3** | [docs →](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="30"/> | **JavaScript** | [docs →](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="30"/> | **React** | [docs →](https://react.dev) |
+| <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="30"/> | **Tailwind CSS** | [docs →](https://tailwindcss.com/docs) |
+| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="30"/> | **Python** | [docs →](https://www.python.org/doc/) |
+| <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="30"/> | **Flutter** | [docs →](https://flutter.dev/docs) |
+| <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="30"/> | **Dart** | [docs →](https://dart.dev/guides) |
+| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="30"/> | **Java** | [docs →](https://docs.oracle.com/en/java/) |
+| <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="30"/> | **Bootstrap** | [docs →](https://getbootstrap.com/docs) |
 
-<br/><br/>
+### Tools & IDEs
 
-**Tools & IDEs**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,androidstudio,xcode,pycharm,idea,replit&theme=dark" />
-
-<br/><br/>
-
-![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-square&logo=cursor&logoColor=00FFD4&labelColor=0d1117)
-&nbsp;
-![Bolt](https://img.shields.io/badge/Bolt.new-AI_Builder-1389FD?style=flat-square&logo=stackblitz&logoColor=white&labelColor=0d1117)
-&nbsp;
-![Notion](https://img.shields.io/badge/Notion-Workspace-ffffff?style=flat-square&logo=notion&logoColor=black&labelColor=0d1117)
+| | Tool | Link |
+|:---:|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="30"/> | **Git** | [git-scm.com](https://git-scm.com) |
+| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="30"/> | **VS Code** | [code.visualstudio.com](https://code.visualstudio.com) |
+| <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="30"/> | **Figma** | [figma.com](https://figma.com) |
+| <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="30"/> | **Postman** | [postman.com](https://postman.com) |
+| <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="30"/> | **Netlify** | [netlify.com](https://netlify.com) |
+| <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="30"/> | **Android Studio** | [developer.android.com/studio](https://developer.android.com/studio) |
+| <img src="https://skillicons.dev/icons?i=xcode&theme=dark" width="30"/> | **Xcode** | [developer.apple.com/xcode](https://developer.apple.com/xcode/) |
+| <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="30"/> | **PyCharm** | [jetbrains.com/pycharm](https://www.jetbrains.com/pycharm/) |
+| <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="30"/> | **IntelliJ IDEA** | [jetbrains.com/idea](https://www.jetbrains.com/idea/) |
+| <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="30"/> | **Replit** | [replit.com](https://replit.com) |
+| <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="30"/> | **Notion** | [notion.so](https://www.notion.so) |
 
 </div>
 
@@ -103,13 +132,19 @@ A web platform that makes sharing campus resources simple and accessible for eve
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true&rank_icon=github" />
+<a href="https://github.com/shawandarshan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true" />
+</a>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawandarshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&text_color=ffffff&langs_count=6" />
+<a href="https://github.com/shawandarshan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawandarshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&text_color=ffffff&langs_count=8" />
+</a>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD4&ring=00FFD4&fire=ff6b6b&currStreakLabel=00FFD4&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+<a href="https://github.com/shawandarshan">
+  <img width="68%" src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD4&ring=00FFD4&fire=ff6b6b&currStreakLabel=00FFD4&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+</a>
 
 </div>
 
