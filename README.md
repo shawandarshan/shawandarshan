@@ -1,169 +1,190 @@
+<!--
+  ╔════════════════════════════════════════════════╗
+  ║           shawandarshan / shawandarshan        ║
+  ║              github profile readme             ║
+  ╚════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Shawandarshan&fontSize=62&fontColor=00d4ff&fontAlignY=40&desc=AI%20%2F%20ML%20Builder%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Clean%20UI%20Enthusiast&descAlignY=62&descSize=18&descColor=ffffff&animation=twinkling" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ░██████╗██╗  ██╗ █████╗ ██╗    ██╗ █████╗ ███╗  ██╗                ║
+║    ██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗████╗ ██║                 ║
+║    ╚█████╗ ███████║███████║██║ █╗ ██║███████║██╔██╗██║                 ║
+║     ╚═══██╗██╔══██║██╔══██║██║███╗██║██╔══██║██║╚████║                 ║
+║    ██████╔╝██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║  ███║                 ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<a href="https://github.com/shawandarshan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Shawandarshan;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Crafting+Clean+Modern+Web+Apps+%F0%9F%8C%90;Leveling+Up+React+%26+Tailwind+%E2%9A%9B%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFD4&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+progress...;Web+Craftsman+%7C+Clean+UI+Obsessed;React+%2B+Tailwind+%2B+Python;Building+things+that+matter.;%24+whoami+%E2%86%92+shawandarshan" alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shawandarshan&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/shawandarshan?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/shawandarshan?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=STARS" />
-<img src="https://img.shields.io/badge/📍_India-00d4ff?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<a href="https://yuge.netlify.app/"><img src="https://img.shields.io/badge/🖨️_Yugi_Digital_Printing-visit-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://campusresouceshare.netlify.app/"><img src="https://img.shields.io/badge/🎓_Campus_Resource_Share-visit-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/shawandarshan"><img src="https://img.shields.io/badge/💼_LinkedIn-connect-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://buymeacoffee.com/shawandarshan"><img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support-FFDD00?style=for-the-badge&labelColor=0d1117" /></a>
+![](https://img.shields.io/badge/status-building-00FFD4?style=flat-square&labelColor=0d1117&logo=statuspage&logoColor=00FFD4)
+![](https://img.shields.io/badge/mood-caffeinated-ff6b6b?style=flat-square&labelColor=0d1117&logo=buymeacoffee&logoColor=ff6b6b)
+![](https://img.shields.io/badge/location-India-ffffff?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=ffffff)
+![](https://komarev.com/ghpvc/?username=shawandarshan&style=flat-square&color=00FFD4&labelColor=0d1117&label=visitors)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## `> whoami`
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&hide_title=true" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=190&lines=class+Shawandarshan%3A;++++alias++++++=+%22shawandarshan%22;++++location++=+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++role++++++++=+%5B%22AI%2FML+Builder%22%2C+%22Web+Developer%22%5D;++++stack+++++++=+%5B%22React%22%2C+%22Tailwind%22%2C+%22Python%22%2C+%22Flutter%22%5D;++++motto+++++++=+%22Build+in+public.+Learn+every+day.+%E2%9A%A1%22" alt="whoami" />
-</div>
+### `$ cat about.txt`
+
+```yaml
+name     :  Shawandarshan
+alias    :  shawan
+country  :  India 🇮🇳
+role     :
+  - AI / ML Builder
+  - Web Developer
+stack    :
+  - React · Tailwind · JavaScript
+  - Python · Flutter · Dart
+  - HTML · CSS · Java · Linux
+currently:
+  - Leveling up React skills
+  - Building AI-powered web apps
+  - Shipping clean UI every day
+motto    :  "Build in public. Ship fast. Learn forever."
+```
+
+<br clear="right"/>
+
+---
+
+### `$ ls -la ./projects`
 
 <br/>
 
-<p align="center">
-A curious mind who loves building modern websites & applications.<br/>
-Passionate about software development, clean UI, AI / machine learning, and learning new technologies every day.
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+**🖨 &nbsp;[Yugi Digital Printing](https://yuge.netlify.app/)**
 
-<div align="center">
+```
+type    → Business Website
+stack   → HTML · CSS · JS
+host    → Netlify
+status  → ✅ Live
+```
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔭 Building</h3>
-      <sub>AI / ML projects<br/>& modern web apps</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌱 Learning</h3>
-      <sub>React · Tailwind CSS<br/>AI-powered workflows</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎯 Goal</h3>
-      <sub>Simple, optimized code<br/>& beautiful interfaces</sub>
-    </td>
-  </tr>
+A fully browser-ready business site for a digital printing company. Built for speed, clean layout, zero bloat.
+
+[![](https://img.shields.io/badge/🔗_Open_Live_Site-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFD4)](https://yuge.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 &nbsp;[Campus Resource Share](https://campusresouceshare.netlify.app/)**
+
+```
+type    → Web Platform
+stack   → React · Tailwind · JS
+host    → Netlify
+status  → ✅ Live
+```
+
+A web platform that makes sharing campus resources simple, fast, and accessible.
+
+[![](https://img.shields.io/badge/🔗_Open_Live_Site-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFD4)](https://campusresouceshare.netlify.app/)
+
+</td>
+</tr>
 </table>
 
-</div>
+---
+
+### `$ cat ./skills/languages.json`
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://yuge.netlify.app/">
-        <img src="https://img.shields.io/badge/🖨️_YUGI_DIGITAL_PRINTING-7c3aed?style=for-the-badge&labelColor=0d1117" />
-      </a>
-      <br/><br/>
-      A business website built for a digital printing company, with a clean layout and a fast, browser-ready build.
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,netlify&theme=dark" />
-      <br/><br/>
-      <a href="https://yuge.netlify.app/"><b>🔗 View live site →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://campusresouceshare.netlify.app/">
-        <img src="https://img.shields.io/badge/🎓_CAMPUS_RESOURCE_SHARE-00d4ff?style=for-the-badge&labelColor=0d1117" />
-      </a>
-      <br/><br/>
-      A web platform built around sharing campus resources, designed to be simple and easy to use.
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,js,netlify&theme=dark" />
-      <br/><br/>
-      <a href="https://campusresouceshare.netlify.app/"><b>🔗 View live site →</b></a>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,flutter,dart,java,bootstrap,linux&theme=dark&perline=11" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠 Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,py,java,dart,flutter,tailwind,bootstrap,linux&theme=dark" />
-
-### 🧰 Tools & IDEs
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,netlify,notion,androidstudio,xcode,pycharm,idea,replit&theme=dark" />
+### `$ cat ./skills/tools.json`
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cursor-AI_Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Bolt.new-AI_Builder-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,androidstudio,xcode,pycharm,idea,replit,notion&theme=dark&perline=11" />
 
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shawandarshan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-shawandarshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
 &nbsp;
-<a href="https://github.com/shawandarshan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-shawandarshan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://buymeacoffee.com/shawandarshan" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-<i>"Simple code. Clean design. Always learning."</i>
+![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-square&logo=cursor&logoColor=00FFD4)
+![Bolt](https://img.shields.io/badge/Bolt.new-AI_Build-1389FD?style=flat-square&logo=stackblitz&logoColor=white)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+---
+
+### `$ git log --oneline --graph (streak)`
+
+<br/>
 
 <div align="center">
-<sub>⚡ <i>Building modern apps · Learning every day · Building in public</i> ⚡</sub>
+
+<img src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD4&ring=00FFD4&fire=ff6b6b&currStreakLabel=00FFD4&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
+
+</div>
+
+---
+
+### `$ top --languages`
+
 <br/>
-⭐️ <i>Feel free to check out my repositories and follow for more updates!</i>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawandarshan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&text_color=ffffff&langs_count=6" width="30%"/>
+
+</div>
+
+---
+
+### `$ ping shawandarshan`
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shawandarshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shawandarshan)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-shawandarshan-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shawandarshan)
+&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117)](https://buymeacoffee.com/shawandarshan)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║  thanks for visiting. go build something.    ║
+║                     — shawandarshan  ⚡      ║
+╚══════════════════════════════════════════════╝
+```
+
+![](https://img.shields.io/github/followers/shawandarshan?style=flat-square&color=00FFD4&labelColor=0d1117&logo=github&label=followers)
+&nbsp;
+![](https://img.shields.io/github/stars/shawandarshan?affiliations=OWNER&style=flat-square&color=00FFD4&labelColor=0d1117&logo=github&label=stars)
+
 </div>
