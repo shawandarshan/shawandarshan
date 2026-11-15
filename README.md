@@ -1,102 +1,71 @@
-<!--
-  ╔════════════════════════════════════════════════╗
-  ║           shawandarshan / shawandarshan        ║
-  ║              github profile readme             ║
-  ╚════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ░██████╗██╗  ██╗ █████╗ ██╗    ██╗ █████╗ ███╗  ██╗                ║
-║    ██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗████╗ ██║                 ║
-║    ╚█████╗ ███████║███████║██║ █╗ ██║███████║██╔██╗██║                 ║
-║     ╚═══██╗██╔══██║██╔══██║██║███╗██║██╔══██║██║╚████║                 ║
-║    ██████╔╝██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║  ███║                 ║
-║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝                ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFD4&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+progress...;Web+Craftsman+%7C+Clean+UI+Obsessed;React+%2B+Tailwind+%2B+Python;Building+things+that+matter.;%24+whoami+%E2%86%92+shawandarshan" alt="typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,30:0a3d4a,70:0a3d4a,100:0d1117&height=220&section=header&text=Shawandarshan&fontSize=72&fontColor=00FFD4&fontAlignY=50&desc=AI%20%2F%20ML%20Builder%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Clean%20UI%20Obsessed&descAlignY=70&descSize=16&descColor=aaaaaa&animation=scaleIn" />
 
 <br/>
 
-![](https://img.shields.io/badge/status-building-00FFD4?style=flat-square&labelColor=0d1117&logo=statuspage&logoColor=00FFD4)
-![](https://img.shields.io/badge/mood-caffeinated-ff6b6b?style=flat-square&labelColor=0d1117&logo=buymeacoffee&logoColor=ff6b6b)
-![](https://img.shields.io/badge/location-India-ffffff?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=ffffff)
-![](https://komarev.com/ghpvc/?username=shawandarshan&style=flat-square&color=00FFD4&labelColor=0d1117&label=visitors)
+<a href="https://github.com/shawandarshan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFD4&center=true&vCenter=true&width=680&lines=Building+AI+%2F+ML+Projects+%F0%9F%A4%96;Crafting+Clean+Modern+Web+Apps+%F0%9F%8C%90;React+%7C+Tailwind+%7C+Python+%7C+Flutter;Shipping+Simple%2C+Optimized+Code+%E2%9A%A1;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="typing" />
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=shawandarshan&style=for-the-badge&color=00FFD4&labelColor=0d1117&label=PROFILE+VIEWS)
+&nbsp;
+![](https://img.shields.io/github/followers/shawandarshan?style=for-the-badge&color=00FFD4&labelColor=0d1117&logo=github&label=FOLLOWERS)
+&nbsp;
+![](https://img.shields.io/badge/📍_INDIA-0d1117?style=for-the-badge)
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&hide_title=true" />
+## 👋 About Me
 
-### `$ cat about.txt`
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true" />
 
 ```yaml
-name     :  Shawandarshan
-alias    :  shawan
-country  :  India 🇮🇳
-role     :
-  - AI / ML Builder
-  - Web Developer
-stack    :
-  - React · Tailwind · JavaScript
-  - Python · Flutter · Dart
-  - HTML · CSS · Java · Linux
-currently:
-  - Leveling up React skills
-  - Building AI-powered web apps
-  - Shipping clean UI every day
-motto    :  "Build in public. Ship fast. Learn forever."
+Name     : Shawandarshan
+Location : India 🇮🇳
+Focus    : AI / ML + Web Development
+Stack    : React · Tailwind · Python · Flutter
+
+Currently:
+  ↳ Leveling up React skills
+  ↳ Building AI-powered web apps
+  ↳ Crafting clean UI with Tailwind CSS
+
+Principle: "Build in public. Ship fast. Learn forever."
 ```
 
 <br clear="right"/>
 
 ---
 
-### `$ ls -la ./projects`
+## 🚀 Live Projects
 
 <br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>🖨️ Yugi Digital Printing</h3>
 
-**🖨 &nbsp;[Yugi Digital Printing](https://yuge.netlify.app/)**
+A business website for a digital printing company — fast, clean layout, zero bloat.
 
-```
-type    → Business Website
-stack   → HTML · CSS · JS
-host    → Netlify
-status  → ✅ Live
-```
+**Stack:** HTML · CSS · JavaScript · Netlify
 
-A fully browser-ready business site for a digital printing company. Built for speed, clean layout, zero bloat.
-
-[![](https://img.shields.io/badge/🔗_Open_Live_Site-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFD4)](https://yuge.netlify.app/)
+**→ [yuge.netlify.app](https://yuge.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
+<h3>🎓 Campus Resource Share</h3>
 
-**🎓 &nbsp;[Campus Resource Share](https://campusresouceshare.netlify.app/)**
+A web platform that makes sharing campus resources simple and accessible for everyone.
 
-```
-type    → Web Platform
-stack   → React · Tailwind · JS
-host    → Netlify
-status  → ✅ Live
-```
+**Stack:** React · Tailwind CSS · JavaScript · Netlify
 
-A web platform that makes sharing campus resources simple, fast, and accessible.
-
-[![](https://img.shields.io/badge/🔗_Open_Live_Site-0d1117?style=for-the-badge&logo=netlify&logoColor=00FFD4)](https://campusresouceshare.netlify.app/)
+**→ [campusresouceshare.netlify.app](https://campusresouceshare.netlify.app/)**
 
 </td>
 </tr>
@@ -104,61 +73,49 @@ A web platform that makes sharing campus resources simple, fast, and accessible.
 
 ---
 
-### `$ cat ./skills/languages.json`
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,flutter,dart,java,bootstrap,linux&theme=dark&perline=11" />
+**Languages & Frameworks**
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,flutter,dart,java,bootstrap&theme=dark" />
 
-<br/>
+<br/><br/>
 
-### `$ cat ./skills/tools.json`
+**Tools & IDEs**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,androidstudio,xcode,pycharm,idea,replit&theme=dark" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,androidstudio,xcode,pycharm,idea,replit,notion&theme=dark&perline=11" />
-
+![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-square&logo=cursor&logoColor=00FFD4&labelColor=0d1117)
 &nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-square&logo=cursor&logoColor=00FFD4)
-![Bolt](https://img.shields.io/badge/Bolt.new-AI_Build-1389FD?style=flat-square&logo=stackblitz&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt.new-AI_Builder-1389FD?style=flat-square&logo=stackblitz&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Notion](https://img.shields.io/badge/Notion-Workspace-ffffff?style=flat-square&logo=notion&logoColor=black&labelColor=0d1117)
 
 </div>
 
 ---
 
-### `$ git log --oneline --graph (streak)`
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD4&ring=00FFD4&fire=ff6b6b&currStreakLabel=00FFD4&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=shawandarshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawandarshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&text_color=ffffff&langs_count=6" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=shawandarshan&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD4&ring=00FFD4&fire=ff6b6b&currStreakLabel=00FFD4&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
-### `$ top --languages`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawandarshan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD4&text_color=ffffff&langs_count=6" width="30%"/>
-
-</div>
-
----
-
-### `$ ping shawandarshan`
-
-<br/>
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -166,25 +123,12 @@ A web platform that makes sharing campus resources simple, fast, and accessible.
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-shawandarshan-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shawandarshan)
 &nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117)](https://buymeacoffee.com/shawandarshan)
-
-</div>
+[![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117)](https://buymeacoffee.com/shawandarshan)
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d4a,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║  thanks for visiting. go build something.    ║
-║                     — shawandarshan  ⚡      ║
-╚══════════════════════════════════════════════╝
-```
-
-![](https://img.shields.io/github/followers/shawandarshan?style=flat-square&color=00FFD4&labelColor=0d1117&logo=github&label=followers)
-&nbsp;
-![](https://img.shields.io/github/stars/shawandarshan?affiliations=OWNER&style=flat-square&color=00FFD4&labelColor=0d1117&logo=github&label=stars)
+*⭐️ If you like my work, drop a follow — more coming soon!*
 
 </div>
