@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shawandarshan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Builder%20%7C%20Web%20Developer%20%7C%20Votex%20Ambassador&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shawandarshan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Builder%20%7C%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/shawandarshan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+ML+Projects+%F0%9F%A4%96;Crafting+Clean+Modern+Web+Apps+%F0%9F%8C%90;Votex+Ambassador+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+ML+Projects+%F0%9F%A4%96;Crafting+Clean+Modern+Web+Apps+%F0%9F%8C%90;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -12,6 +12,12 @@
 <img src="https://img.shields.io/github/followers/shawandarshan?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-0891b2?style=for-the-badge&labelColor=1c1917" />
 
+<br/><br/>
+
+<a href="https://yuge.netlify.app/"><img src="https://img.shields.io/badge/🖨️_Yugi_Digital_Printing-Live-00d4ff?style=for-the-badge&labelColor=1c1917" /></a>
+<a href="https://campusresouceshare.netlify.app/"><img src="https://img.shields.io/badge/🎓_Campus_Resource_Share-Live-00d4ff?style=for-the-badge&labelColor=1c1917" /></a>
+<a href="https://www.linkedin.com/in/shawandarshan"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1c1917" /></a>
+
 </div>
 
 ---
@@ -19,7 +25,7 @@
 ## `> whoami`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=200&lines=class+Shawandarshan%3A;++++alias++++++=+%22shawandarshan%22;++++location++=+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++role++++++++=+%5B%22AI%2FML+Builder%22%2C+%22Web+Dev%22%2C+%22Votex+Ambassador%22%5D;++++focus+++++++=+%22AI+%2B+Clean+UI%22;++++motto+++++++=+%22Build+in+public.+Learn+every+day.+%E2%9A%A1%22" alt="whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=200&lines=class+Shawandarshan%3A;++++alias++++++=+%22shawandarshan%22;++++location++=+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++role++++++++=+%5B%22AI%2FML+Builder%22%2C+%22Web+Dev%22%5D;++++focus+++++++=+%22AI+%2B+Clean+UI%22;++++motto+++++++=+%22Build+in+public.+Learn+every+day.+%E2%9A%A1%22" alt="whoami" />
 </div>
 
 <br/>
@@ -37,7 +43,7 @@ A curious mind who loves building modern websites & applications. Passionate abo
 | 🔭 Currently | 🌱 Learning | 🎯 Focus |
 |:---|:---|:---|
 | Building AI/ML projects & web apps | Leveling up **React** | Clean UI with **Tailwind CSS** |
-| Representing **Votex** as an Ambassador | AI-powered development workflows | Shipping simple, optimized code |
+| Exploring AI & ML ideas | AI-powered development workflows | Shipping simple, optimized code |
 
 </div>
 
@@ -66,15 +72,28 @@ A curious mind who loves building modern websites & applications. Passionate abo
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🖨️_Yugi_Digital_Printing-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <a href="https://yuge.netlify.app/"><img src="https://img.shields.io/badge/🖨️_Yugi_Digital_Printing-Live_Site-F7DF1E?style=for-the-badge&logo=netlify&logoColor=black" /></a>
       <br/><sub>Business website built for a digital printing company</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-302b63?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      <br/><sub>Personal portfolio website, in the works</sub>
+      <a href="https://campusresouceshare.netlify.app/"><img src="https://img.shields.io/badge/🎓_Campus_Resource_Share-Live_Site-00d4ff?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+      <br/><sub>Web platform for sharing campus resources</sub>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 🌐 Live Websites
+
+<div align="center">
+
+| Website | Link |
+|:---|:---|
+| 🖨️ **Yugi Digital Printing** | [yuge.netlify.app](https://yuge.netlify.app/) |
+| 🎓 **Campus Resource Share** | [campusresouceshare.netlify.app](https://campusresouceshare.netlify.app/) |
 
 </div>
 
